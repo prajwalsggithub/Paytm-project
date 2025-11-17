@@ -2,9 +2,8 @@
 
 ---
 
-# 📌 **README.md (Final Version)**
 
-```md
+
 # Paytm Full-Stack Recharge Application (AWS Deployment)
 
 This project is a Paytm-like full-stack recharge application built using **HTML, CSS, JavaScript (Frontend)** and **Python Flask (Backend)**, fully deployed on AWS using **EC2, Apache, RDS MySQL, IAM Roles, and an Application Load Balancer**.
