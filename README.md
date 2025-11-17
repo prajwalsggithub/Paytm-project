@@ -94,9 +94,9 @@ responsive.css
 ```bash
 sudo yum update -y
 sudo yum install git -y
-git clone https://github.com/<your-repo>/Paytm-fullstack-project.git
+git clone https://github.com/<your-repo>/Paytm-project.git
 
-cd Paytm-fullstack-project/Backend
+cd Paytm-project/Backend
 
 sudo yum install python3 -y
 sudo yum install python3-pip -y
@@ -138,7 +138,7 @@ sudo systemctl enable httpd
 ### Deploy frontend:
 
 ```bash
-cd Paytm-fullstack-project/Frontend/Frontend-code
+cd Paytm-project/Frontend/Frontend-code
 sudo cp -r * /var/www/html/
 ```
 
