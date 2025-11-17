@@ -1,7 +1,4 @@
-# Paytm-project
-Here is a **clean, professional, GitHub-ready `README.md`** for your **Paytm Full-Stack Recharge Application (without S3)**.
 
-You can copy-paste this directly into GitHub.
 
 ---
 
